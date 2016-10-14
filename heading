@@ -1,0 +1,26 @@
+<html>
+<head>
+<title> Vivek Head </title>
+</head>
+<body> <center>
+<h6>HTML</h6><br>
+<h5>XML</h5><br>
+<h4>PHP</h4><br>
+<h3>C++</h3><br>
+<h2>Java</h2><br>
+<h1 title="hello dear you are in danger zone.">MEAN with title</h1>
+<p>P TAG <br>  These are software development package.<br>
+Basic to advance programming language.</p>
+ <a href="http://www.w3schools.com" target="_blank">
+ Basic About HTML</a> 
+ <pre>  PRE TAG:
+ These are software development package.
+Basic to advance programming language.</pre>
+ <a href="http://www.w3schools.com" target="_blank">
+ Basic About HTML</a> 
+</center>
+
+<img src="/home/vivek/Desktop/my html/images.jpeg" width="204" height="142"> 
+
+</body>
+</html>
